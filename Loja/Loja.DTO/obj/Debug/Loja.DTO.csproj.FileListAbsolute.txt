@@ -1,0 +1,7 @@
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja\Loja.DTO\bin\Debug\Loja.DTO.dll
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja\Loja.DTO\bin\Debug\Loja.DTO.pdb
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja\Loja.DTO\obj\Debug\Loja.DTO.csproj.CoreCompileInputs.cache
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja\Loja.DTO\obj\Debug\Loja.DTO.dll
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja\Loja.DTO\obj\Debug\Loja.DTO.pdb
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja\Loja.DTO\bin\Debug\Loja.DTO.dll.CodeAnalysisLog.xml
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja\Loja.DTO\bin\Debug\Loja.DTO.dll.lastcodeanalysissucceeded

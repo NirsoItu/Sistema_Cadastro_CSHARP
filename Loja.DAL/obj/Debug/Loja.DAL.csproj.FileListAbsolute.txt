@@ -1,0 +1,10 @@
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja.DAL\obj\Debug\Loja.DAL.csprojAssemblyReference.cache
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja.DAL\obj\Debug\Loja.DAL.csproj.CoreCompileInputs.cache
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja.DAL\bin\Debug\Loja.DAL.dll.config
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja.DAL\bin\Debug\Loja.DAL.dll
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja.DAL\bin\Debug\Loja.DAL.pdb
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja.DAL\bin\Debug\Loja.DTO.dll
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja.DAL\bin\Debug\Loja.DTO.pdb
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja.DAL\obj\Debug\Loja.DAL.csproj.CopyComplete
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja.DAL\obj\Debug\Loja.DAL.dll
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja.DAL\obj\Debug\Loja.DAL.pdb

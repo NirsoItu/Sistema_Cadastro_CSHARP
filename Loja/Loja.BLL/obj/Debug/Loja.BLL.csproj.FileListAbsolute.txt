@@ -1,0 +1,12 @@
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja\Loja.BLL\bin\Debug\Loja.BLL.dll
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja\Loja.BLL\bin\Debug\Loja.BLL.pdb
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja\Loja.BLL\bin\Debug\Loja.DTO.dll
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja\Loja.BLL\bin\Debug\Loja.DTO.pdb
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja\Loja.BLL\obj\Debug\Loja.BLL.csprojAssemblyReference.cache
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja\Loja.BLL\obj\Debug\Loja.BLL.csproj.CoreCompileInputs.cache
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja\Loja.BLL\obj\Debug\Loja.BLL.csproj.CopyComplete
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja\Loja.BLL\obj\Debug\Loja.BLL.dll
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja\Loja.BLL\obj\Debug\Loja.BLL.pdb
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja\Loja.BLL\bin\Debug\Loja.DAL.dll
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja\Loja.BLL\bin\Debug\Loja.DAL.pdb
+D:\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\C Sharp - Avançado\Cap 3\Sistema Loja\Loja\Loja.BLL\bin\Debug\Loja.DAL.dll.config
